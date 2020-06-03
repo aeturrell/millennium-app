@@ -2,4 +2,4 @@ altair==4.1.0
 numpy==1.18.1
 streamlit==0.60.0
 pandas==1.0.3
-python==3.7.6
+python==3.7
